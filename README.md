@@ -27,9 +27,9 @@ The front-end of this project is built using react and Node.js is used for serve
 
 ## Screenshots
 
-![App Screenshot](https://i.postimg.cc/MMjCKJqJ/proj1.jpg)
-![App Screenshot](https://i.postimg.cc/JGQ9hqV0/proj2.jpg)
-![App Screenshot](https://i.postimg.cc/N5t3YnnZ/proj3.jpg)
-![App Screenshot](https://i.postimg.cc/WtgBBV5M/proj4.jpg)
-![App Screenshot](https://i.postimg.cc/0KYhDGzt/proj5.jpg)
+[![proj1.jpg](https://i.postimg.cc/W39T8syz/proj1.jpg)](https://postimg.cc/MMjCKJqJ)
+[![proj2.jpg](https://i.postimg.cc/Sx0qDTg6/proj2.jpg)](https://postimg.cc/JGQ9hqV0)
+[![proj3.jpg](https://i.postimg.cc/VL0m9QWs/proj3.jpg)](https://postimg.cc/N5t3YnnZ)
+[![proj4.jpg](https://i.postimg.cc/XNzny7FD/proj4.jpg)](https://postimg.cc/WtgBBV5M)
+[![proj5.jpg](https://i.postimg.cc/WzCjRXTP/proj5.jpg)](https://postimg.cc/0KYhDGzt)
 
