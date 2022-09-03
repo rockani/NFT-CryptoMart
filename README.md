@@ -24,3 +24,12 @@ MetaMask is a software cryptocurrency wallet used to interact with the Ethereum 
 The database of users is stores using sanity.io as database.
 The front-end of this project is built using react and Node.js is used for server side rendering.
 
+
+## Screenshots
+
+![App Screenshot](https://i.postimg.cc/MMjCKJqJ/proj1.jpg)
+![App Screenshot](https://i.postimg.cc/JGQ9hqV0/proj2.jpg)
+![App Screenshot](https://i.postimg.cc/N5t3YnnZ/proj3.jpg)
+![App Screenshot](https://i.postimg.cc/WtgBBV5M/proj4.jpg)
+![App Screenshot](https://i.postimg.cc/0KYhDGzt/proj5.jpg)
+
